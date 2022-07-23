@@ -2,7 +2,7 @@ import {AiFillHome} from 'react-icons/ai'
 import {BsFillBriefcaseFill} from 'react-icons/bs'
 import {FiLogOut} from 'react-icons/fi'
 import {Link, withRouter} from 'react-router-dom'
-import {Cookies} from 'js-cookie'
+import Cookies from 'js-cookie'
 
 import './index.css'
 
